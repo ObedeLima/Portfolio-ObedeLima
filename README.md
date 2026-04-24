@@ -45,4 +45,4 @@ Sistema de gestão de eventos acadêmicos
 
 ### Show do Milhão OBI
 Plataforma gamificada para estudos  
-[Ver projeto](./projetos/show do milhao da obi)
+[Ver projeto](./projetos/show-do-milhao-da-obi)
