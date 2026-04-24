@@ -41,9 +41,9 @@ Figma: https://figma.com/@obede
 ## Projetos
 
 ### SisTCC
-Sistema de gestão de eventos acadêmicos  
+Sistema de gestão de reuniões acadêmicas
 [Ver projeto](./projetos/sistcc)
 
-### Show do Milhão OBI
+### Show do Milhão da OBI
 Plataforma gamificada para estudos  
 [Ver projeto](./projetos/show-do-milhao-obi)
