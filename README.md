@@ -1,4 +1,4 @@
-# Portfolio | Obede Lima
+# Portfólio | Obede Lima
 # Olá! Eu sou o Obede
 
 Estudante de Sistemas de Informação  
