@@ -1,7 +1,7 @@
-# SisTCC
+# SisEUs
 
 ## Visão Geral
-O SisTCC é uma plataforma voltada para o acompanhamento de eventos acadêmicos, com foco no registro de presença, avaliação de trabalhos e organização de apresentações.
+O SisEUs é uma plataforma voltada para o acompanhamento de eventos acadêmicos, com foco no registro de presença, avaliação de trabalhos e organização de apresentações.
 
 A proposta é centralizar e facilitar a experiência de alunos, orientadores, avaliadores e participantes, tornando o processo mais eficiente e reduzindo atividades manuais na gestão do evento.
 
