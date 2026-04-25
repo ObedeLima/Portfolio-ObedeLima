@@ -6,13 +6,13 @@ Uma plataforma educativa inspirada no clássico "Show do Milhão", criada para t
 
 ## O Problema
 
-Praticar questões da OBI pode ser eficaz — mas também cansativo. A repetição de exercícios sem nenhuma camada de motivação torna o estudo pouco atrativo, especialmente para estudantes que estão começando.
+Praticar questões da OBI pode ser eficaz, mas também cansativo. A repetição de exercícios sem nenhuma camada de motivação torna o estudo pouco atrativo, especialmente para estudantes que estão começando.
 
 ---
 
 ## A Proposta
 
-Transformar a resolução de questões em uma experiência gamificada: o estudante avança por níveis, recebe feedback imediato e sente a progressão — como num jogo de verdade.
+Transformar a resolução de questões em uma experiência gamificada: o estudante avança por níveis, recebe feedback imediato e sente a progressão, como num jogo de verdade.
 
 ---
 
@@ -27,13 +27,11 @@ Os wireframes de baixa fidelidade focaram em três prioridades: navegação simp
 **3. Protótipo de Alta Fidelidade**
 No Figma, os wireframes evoluíram para uma interface com hierarquia visual definida, feedbacks visuais pensados e consistência entre as telas.
 
-🔗 [Acessar protótipo no Figma](#)
-
 ---
 
 ## Solução
 
-A interface final simula a progressão do jogo original — com foco em clareza, engajamento e uma experiência que incentiva o estudante a continuar.
+A interface final simula a progressão do jogo original, com foco em clareza, engajamento e uma experiência que incentiva o estudante a continuar.
 
 ---
 
@@ -51,4 +49,4 @@ Figma
 
 ## Aprendizados
 
-Esse projeto me mostrou na prática como a gamificação pode transformar uma experiência de estudo. Adaptar um formato já consolidado para um novo contexto exige mais do que copiar a estética — é preciso entender *por que* aquele formato funciona, e aí sim traduzir isso para o novo objetivo.
+Esse projeto me mostrou na prática como a gamificação pode transformar uma experiência de estudo. Adaptar um formato já consolidado para um novo contexto exige mais do que copiar a estética, é preciso entender *por que* aquele formato funciona, e aí sim traduzir isso para o novo objetivo.
