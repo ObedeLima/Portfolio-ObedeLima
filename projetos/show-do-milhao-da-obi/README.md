@@ -1,68 +1,54 @@
 # Show do Milhão OBI
 
-## Visão Geral
-O Show do Milhão OBI é uma plataforma lúdica e educativa inspirada no programa "Show do Milhão", com o objetivo de auxiliar estudantes na preparação para a Olimpíada Brasileira de Informática (OBI).
-
-A proposta é transformar a resolução de questões da OBI em uma experiência interativa e gamificada.
+Uma plataforma educativa inspirada no clássico "Show do Milhão", criada para tornar a preparação para a Olimpíada Brasileira de Informática (OBI) mais engajante e divertida.
 
 ---
 
-## Problema
-Estudantes da OBI frequentemente enfrentam dificuldades em manter engajamento durante a prática de exercícios, que pode se tornar repetitiva e pouco motivadora.
+## O Problema
+
+Praticar questões da OBI pode ser eficaz — mas também cansativo. A repetição de exercícios sem nenhuma camada de motivação torna o estudo pouco atrativo, especialmente para estudantes que estão começando.
 
 ---
 
-## Objetivo
-Criar uma experiência interativa que:
-- Aumente o engajamento dos estudantes
-- Torne o processo de aprendizado mais dinâmico
-- Mantenha a fidelidade ao estilo do jogo original
+## A Proposta
+
+Transformar a resolução de questões em uma experiência gamificada: o estudante avança por níveis, recebe feedback imediato e sente a progressão — como num jogo de verdade.
 
 ---
 
-## Processo
+## Processo de Design
 
-### Análise de Referência
-Foi realizada uma análise do formato do jogo "Show do Milhão", identificando seus principais elementos:
-- Progressão por níveis
-- Sistema de perguntas e respostas
-- Feedback imediato ao jogador
+**1. Pesquisa e Referência**
+Parti do formato original do Show do Milhão para entender o que faz o jogo funcionar: a tensão da progressão, o feedback claro após cada resposta e a sensação de conquista a cada nível superado. Esses elementos guiaram todas as decisões de design.
 
-### Ideação e Wireframes
-Foram criados wireframes de baixa fidelidade com foco em:
-- Simplicidade de navegação
-- Clareza na exibição das perguntas
-- Destaque para as opções de resposta
+**2. Wireframes**
+Os wireframes de baixa fidelidade focaram em três prioridades: navegação simples, leitura fácil das perguntas e destaque visual nas opções de resposta. Nada que distraísse do que importa.
 
-### Prototipação
-Os wireframes foram evoluídos para protótipos de alta fidelidade no Figma, considerando:
-- Hierarquia visual
-- Feedback ao usuário
-- Consistência de interface
+**3. Protótipo de Alta Fidelidade**
+No Figma, os wireframes evoluíram para uma interface com hierarquia visual definida, feedbacks visuais pensados e consistência entre as telas.
 
-Link do protótipo: (colocar aqui)
+🔗 [Acessar protótipo no Figma](#)
 
 ---
 
 ## Solução
-A solução final apresenta uma interface que simula a progressão do jogo, com foco em:
-- Engajamento do usuário
-- Facilidade de uso
-- Feedback claro durante a interação
+
+A interface final simula a progressão do jogo original — com foco em clareza, engajamento e uma experiência que incentiva o estudante a continuar.
 
 ---
 
 ## Telas
-(Colocar imagens usando /assets ou prints do Figma)
+
+*(adicionar imagens aqui)*
 
 ---
 
-## Ferramentas Utilizadas
-- Figma
+## Ferramentas
+
+Figma
 
 ---
 
 ## Aprendizados
-- Importância da gamificação no engajamento do usuário
-- Adaptação de um modelo existente para um novo contexto educacional
-- Evolução de wireframes para protótipos funcionais
+
+Esse projeto me mostrou na prática como a gamificação pode transformar uma experiência de estudo. Adaptar um formato já consolidado para um novo contexto exige mais do que copiar a estética — é preciso entender *por que* aquele formato funciona, e aí sim traduzir isso para o novo objetivo.
