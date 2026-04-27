@@ -34,13 +34,6 @@ No Figma, os wireframes evoluíram para uma interface com hierarquia visual defi
 A interface final simula a progressão do jogo original, com foco em clareza, engajamento e uma experiência que incentiva o estudante a continuar.
 
 ---
-
-## Telas
-
-![Tela de Login](./assets/login.png)
-
----
-
 ## Ferramentas
 
 Figma
@@ -50,3 +43,14 @@ Figma
 ## Aprendizados
 
 Esse projeto me mostrou na prática como a gamificação pode transformar uma experiência de estudo. Adaptar um formato já consolidado para um novo contexto exige mais do que copiar a estética, é preciso entender *por que* aquele formato funciona, e aí sim traduzir isso para o novo objetivo.
+
+---
+
+## Telas
+
+![Tela de Login](./assets/login.png)
+![Tela de Cadastro](./assets/cadastro.png)
+![Tela Inicial/Ranking](./assets/ranking.png)
+
+
+---
