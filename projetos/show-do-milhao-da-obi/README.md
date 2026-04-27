@@ -51,6 +51,11 @@ Esse projeto me mostrou na prática como a gamificação pode transformar uma ex
 ![Tela de Login](./assets/login.png)
 ![Tela de Cadastro](./assets/cadastro.png)
 ![Tela Inicial/Ranking](./assets/ranking.png)
+![Questão](./assets/question.png)
+![Questão](./assets/question2.png)
+![Confirmação de Resposta](./assets/confirmar-resposta.png)
+
+
 
 
 ---
