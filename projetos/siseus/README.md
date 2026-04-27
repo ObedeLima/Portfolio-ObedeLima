@@ -1,89 +1,64 @@
 # SisEUs
 
-## Visão Geral
-O SisEUs é uma plataforma voltada para o acompanhamento de eventos acadêmicos, com foco no registro de presença, avaliação de trabalhos e organização de apresentações.
-
-A proposta é centralizar e facilitar a experiência de alunos, orientadores, avaliadores e participantes, tornando o processo mais eficiente e reduzindo atividades manuais na gestão do evento.
+Uma plataforma para gestão de eventos acadêmicos — do registro de presença à avaliação de trabalhos — pensada para reduzir processos manuais e centralizar tudo em um só lugar.
 
 ---
 
-## Problema
-A organização de eventos acadêmicos envolve diversos processos manuais, como:
-- Controle de presença dos participantes
-- Avaliação de trabalhos
-- Organização de cronogramas
-- Emissão de certificados
+## O Problema
 
-Essas atividades podem gerar erros, retrabalho e dificuldades logísticas.
+Organizar eventos acadêmicos envolve uma série de tarefas paralelas: controlar presença, avaliar trabalhos, montar cronogramas, emitir certificados. Feito manualmente, esse conjunto de processos gera erros, retrabalho e dificuldades logísticas que consomem tempo de quem organiza e prejudicam a experiência de quem participa.
 
 ---
 
-## Objetivo
-Desenvolver uma solução que:
-- Centralize as informações do evento
-- Automatize processos administrativos
-- Facilite a avaliação de trabalhos
-- Melhore a experiência dos diferentes perfis de usuários
+## A Proposta
+
+Desenvolver um sistema que centralize as informações do evento, automatize tarefas administrativas e ofereça uma experiência adequada para cada perfil de usuário: alunos, orientadores, avaliadores e participantes.
 
 ---
 
-## Processo
+## Processo de Design
 
-### Levantamento de Requisitos
-Foram realizadas reuniões com as partes interessadas para entender:
-- Necessidades dos usuários
-- Fluxos do evento
-- Principais dificuldades no processo atual
+**1. Levantamento de Requisitos**
 
-### Análise e Documentação
-Os requisitos foram organizados e documentados em conjunto com a equipe, definindo:
-- Escopo do sistema
-- Funcionalidades principais
-- Regras de negócio
+O processo começou com reuniões com as partes interessadas para mapear necessidades reais, entender os fluxos do evento e identificar onde estavam as principais dificuldades. Esse contato direto foi essencial para não projetar no escuro.
 
-### Ideação e Wireframes
-Criação de wireframes de baixa fidelidade com foco em:
-- Estrutura das telas
-- Fluxo de navegação
-- Clareza das funcionalidades
+**2. Análise e Documentação**
 
-### Prototipação
-Desenvolvimento de protótipos de alta fidelidade no :contentReference[oaicite:1]{index=1}, considerando:
-- Hierarquia visual
-- Usabilidade
-- Responsividade
+Com os requisitos em mãos, a equipe organizou e documentou o escopo do sistema, as funcionalidades principais e as regras de negócio — base para todas as decisões que vieram depois.
 
-🔗 Link do protótipo: (colocar aqui)
+**3. Wireframes**
 
-### Validação
-Os protótipos foram apresentados às partes interessadas para:
-- Coleta de feedback
-- Identificação de melhorias
-- Ajustes na solução proposta
+Os wireframes de baixa fidelidade focaram em estruturar as telas, definir o fluxo de navegação e garantir clareza nas funcionalidades antes de qualquer decisão visual.
+
+**4. Prototipação**
+
+No Figma, os wireframes evoluíram para protótipos de alta fidelidade, com atenção à hierarquia visual, usabilidade e responsividade.
+
+
+**5. Validação**
+
+Os protótipos foram apresentados às partes interessadas para coleta de feedback e ajustes — um ciclo de iteração real, com base em quem vai usar o sistema de verdade.
 
 ---
 
 ## Solução
-A solução final consiste em uma plataforma que permite:
-- Acompanhamento da agenda de apresentações
-- Registro de presença com suporte a geolocalização
-- Avaliação digital de trabalhos
-- Geração automatizada de relatórios
+
+A plataforma final reúne em um só lugar o acompanhamento da agenda de apresentações, o registro de presença com suporte a geolocalização, a avaliação digital de trabalhos e a geração automatizada de relatórios.
 
 ---
 
-## Telas
-(Adicionar imagens aqui usando a pasta /assets)
+## Ferramentas
 
----
-
-## Ferramentas Utilizadas
-- Figma
+Figma
 
 ---
 
 ## Aprendizados
-- Importância do alinhamento com stakeholders
-- Estruturação de sistemas com múltiplos tipos de usuários
-- Aplicação de UX em contextos administrativos e acadêmicos
-- Iteração de protótipos com base em feedback real
+
+Esse projeto reforçou o quanto o alinhamento com stakeholders define a qualidade do que é entregue. Projetar para múltiplos perfis de usuário exige atenção constante a contextos diferentes, e iterar com base em feedback real faz uma diferença enorme no resultado final.
+
+---
+
+## Telas
+
+*(adicionar imagens aqui)*
