@@ -30,6 +30,10 @@ Os wireframes de baixa fidelidade focaram em três prioridades: navegação simp
 
 No Figma, os wireframes evoluíram para uma interface com hierarquia visual definida, feedbacks visuais pensados e consistência entre as telas.
 
+**4. Testes de interface, ajustes e melhorias**
+
+Após a validação do protótipo inicial, ajustes e melhorias foram aplicados ao modelo para adequar algumas funcionalidades e aprimorar o fluxo do usuário.
+
 ---
 
 ## Solução
