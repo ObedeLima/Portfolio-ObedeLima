@@ -37,7 +37,7 @@ A interface final simula a progressão do jogo original, com foco em clareza, en
 
 ## Telas
 
-[Tela de Login](./assets/login.png)
+![Tela de Login](./assets/login.png)
 
 ---
 
