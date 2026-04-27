@@ -1,6 +1,6 @@
 # SisEUs
 
-Uma plataforma para gestão de eventos acadêmicos — do registro de presença à avaliação de trabalhos — pensada para reduzir processos manuais e centralizar tudo em um só lugar.
+Uma plataforma para gestão de eventos acadêmicos, do registro de presença à avaliação de trabalhos, pensada para reduzir processos manuais e centralizar tudo em um só lugar.
 
 ---
 
@@ -24,7 +24,7 @@ O processo começou com reuniões com as partes interessadas para mapear necessi
 
 **2. Análise e Documentação**
 
-Com os requisitos em mãos, a equipe organizou e documentou o escopo do sistema, as funcionalidades principais e as regras de negócio — base para todas as decisões que vieram depois.
+Com os requisitos em mãos, a equipe organizou e documentou o escopo do sistema, as funcionalidades principais e as regras de negócio, base para todas as decisões que vieram depois.
 
 **3. Wireframes**
 
