@@ -39,7 +39,7 @@ Figma: https://figma.com/@obede
 ---
 ## Projetos
 
-### SisTCC
+### SisEUs
 Sistema de gestão de eventos acadêmicos  
 [Ver projeto](./projetos/siseus)
 
